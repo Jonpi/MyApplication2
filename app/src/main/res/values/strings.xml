@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp converter:Fahrenheit to Celsius</string>
+    <string name="buttonconv">Convert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pressme">Celsius to Fahrenheit</string>
+    <string name="title_activity_main_activity2">Temp converter:Celsius to Fahrenheit</string>
+</resources>
